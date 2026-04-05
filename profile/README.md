@@ -19,7 +19,7 @@ Molehole은 개인 기록과 콘텐츠를 중심으로 한 블로그 서비스�
 ## 🔧 Tech Stack
 
 ### Backend
-- Java 21
+- Java 17
 - Spring Boot 3.x
 - Spring Security (JWT + Refresh Token)
 - JPA / QueryDSL
